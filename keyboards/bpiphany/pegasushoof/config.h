@@ -21,8 +21,8 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
 #include "config_common.h"
 
 /* USB Device descriptor parameter */
-#define VENDOR_ID       0xFEED
-#define PRODUCT_ID      0x6050
+#define VENDOR_ID       0x05ac // Apple Inc
+#define PRODUCT_ID      0x021e // Aluminum Compact Keyboard (ISO)
 #define DEVICE_VER      0x0104
 #define MANUFACTURER    Filco
 #define PRODUCT         Majestouch TKL \\w The Pegasus Hoof
